@@ -1,0 +1,7 @@
+E:\PROJECTS\BetterMusicTitle\bin\Debug\BetterMusicTitle.exe.config
+E:\PROJECTS\BetterMusicTitle\bin\Debug\BetterMusicTitle.exe
+E:\PROJECTS\BetterMusicTitle\bin\Debug\BetterMusicTitle.pdb
+E:\PROJECTS\BetterMusicTitle\obj\Debug\BetterMusicTitle.csprojAssemblyReference.cache
+E:\PROJECTS\BetterMusicTitle\obj\Debug\BetterMusicTitle.csproj.CoreCompileInputs.cache
+E:\PROJECTS\BetterMusicTitle\obj\Debug\BetterMusicTitle.exe
+E:\PROJECTS\BetterMusicTitle\obj\Debug\BetterMusicTitle.pdb
